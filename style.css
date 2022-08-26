@@ -1,0 +1,83 @@
+body{
+    margin: 1% auto;
+    max-width: 900px;
+    width: 55%;
+}
+.body{
+    width: 750px;
+    height: 170px;
+    background-color: rgb(125, 204, 247);
+    border-radius: 20px;
+}
+.box{
+    float: left;
+    margin-left: 5px;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+  .body2{
+    width: 750px;
+    height: 170px;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+.box2{
+    float: right;
+    margin-right: 5px;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.onep{
+    margin-right: 10px;
+    position: relative;
+    top: 15px;
+}
+#twop{
+    position: relative;
+    top: 20px;
+    margin: 20px;
+}
+.body3{
+    width: 750px;
+    height: 170px;
+    background-color: rgb(243, 214, 27);
+    border-radius: 20px;
+}
+.box3{
+    float: left;
+    margin-right: 5px;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    padding: 10px;
+}
+#threep{
+    position: relative;
+    top: 20px;
+    margin: 20px;
+    }
+    
+.body4{
+    width: 750px;
+    height: 170px;
+    background-color: rgb(104, 227, 108);
+    border-radius: 20px;
+}
+.box4{
+    float: right;
+    margin-right: 5px;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    padding: 10px;
+}
+#fourp{
+    position: relative;
+    top: 15px;
+    margin: 20px;
+    }  
